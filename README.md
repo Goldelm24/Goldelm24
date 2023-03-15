@@ -1,26 +1,16 @@
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hey my name is Josias Guzman
 -->
 #### About Me:
-Graduated from University of Maryland with a degree in Computer Science.<br />
-My favorite language is python. My favorite Framework and Library are Flask and React.<br />
-In my free time, I enjoy staying active through rock climbing and golfing, and I am always on the lookout for new restaurants to try.<br />
-Connect with me on [LinkedIn](https://www.linkedin.com/in/jeongwang/). I am open to new opportunities!<br />
+I like learning new things.<br />
+My favorite language are Python and JavaScript. My favorite Framework is React. I enjoy building big applications.<br />
+On my days off, I enjoy learning how to solve problems, playing video games and getting better at playing the piano.<br />
+Connect with me on [LinkedIn](http://linkedin.com/in/josiasguzman). I am open to new opportunities in the tech industry!<br />
 
 #### I am:
-* Currently working on [lftovrs_frontend](https://github.com/jeongwang95/lftovrs_frontend).<br />
-* The creator of lftovrs: a food recipe web application. ([frontend](https://github.com/jeongwang95/lftovrs_frontend), [backend](https://github.com/jeongwang95/lftovrs)).<br />
-* Currently learning Redux Toolkit and JavaScript Promise.<br />
+Currently interested in working in Front End Development and Software Engineering.
 
 #### Programming Langauges:
 
@@ -47,7 +37,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/jeongwang/). I am open
 ![firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![glitch](https://img.shields.io/badge/glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=white)
-![insomnia](https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 
 
