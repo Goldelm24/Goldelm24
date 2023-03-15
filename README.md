@@ -10,7 +10,8 @@ On my days off, I enjoy learning how to solve problems, playing video games and 
 Connect with me on [LinkedIn](http://linkedin.com/in/josiasguzman). I am open to new opportunities in the tech industry!<br />
 
 #### I am:
-Currently interested in working in Front End Development and Software Engineering.
+* Interested in working in Front End Development|Software Engineering.
+* Currently working on my problem solving skills.<br />
 
 #### Programming Langauges:
 
