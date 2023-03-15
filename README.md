@@ -1,4 +1,4 @@
-![](github_banner.png)
+![](background-img.jpeg)
 
 
 Hey my name is Josias Guzman
