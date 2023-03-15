@@ -39,5 +39,5 @@ Currently interested in working in Front End Development and Software Engineerin
 ![glitch](https://img.shields.io/badge/glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=white)
 
 
-
+- 📫 How to reach me: josiasg352@gmail.com
 
