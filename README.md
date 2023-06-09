@@ -1,8 +1,5 @@
 ![](portfolio-img.png)
 
-
-### Hey my name is Josias Guzman
-
 #### About Me:
 I like learning new things.<br />
 My favorite language are Python and JavaScript. My favorite Framework is React. I enjoy building big applications.<br />
