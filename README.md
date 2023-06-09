@@ -1,7 +1,7 @@
 ![](portfolio-img.png)
 
 
-Hey my name is Josias Guzman
+### Hey my name is Josias Guzman
 
 #### About Me:
 I like learning new things.<br />
