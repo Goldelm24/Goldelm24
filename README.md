@@ -1,4 +1,4 @@
-![](background-img.jpeg)
+![](portfolio-img.png)
 
 
 Hey my name is Josias Guzman
