@@ -2,14 +2,14 @@
 
 #### About Me:
 I like learning new things.<br />
-My favorite language are Python and JavaScript. My favorite Framework is React. I enjoy building big applications.<br />
+My favorite language is JavaScript. My favorite Framework is React. I enjoy building large applications.<br />
 On my days off, I enjoy learning how to solve problems, playing video games and getting better at playing the piano.<br />
 Connect with me on [LinkedIn](http://linkedin.com/in/josiasguzman). I am open to new opportunities in the tech industry!<br />
 
 #### I am:
 * 🤔 Interested in working in Front End Development|Software Engineering.<br />
 * 🔭 Currently working on my problem solving skills.<br />
-* 🌱 I’m learning how to better myself... 
+* 🌱 I like to strengthened my skills... 
 
 #### Programming Langauges:
 
